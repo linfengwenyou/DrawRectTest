@@ -14,13 +14,13 @@
 
 ##### 高内存消耗
 
-![highMemory](/Users/liusong/Desktop/DrawRectTest/images/highMemory.png)
+![highMemory](./images/highMemory.png)
 
 
 
 ##### 低内存消耗
 
-![lowMemory](/Users/liusong/Desktop/DrawRectTest/images/lowMemory.png)
+![lowMemory](./images/lowMemory.png)
 
 
 
